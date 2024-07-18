@@ -1,2 +1,4 @@
-## Description
-Practicing in C - mostly working with [Exercism]([url](https://exercism.org/tracks/c/exercises))
+## About
+A place for me to practice C.
+
+Mostly via [Exercism]([url](https://exercism.org/tracks/c/exercises)).
